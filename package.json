@@ -1,0 +1,22 @@
+{
+  "name": "otheri-node",
+  "version": "1.0.0",
+  "description": "An extension to the mind",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheOtherRealm/otheri-node.git"
+  },
+  "author": "Aaron E-J",
+  "license": "AGPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/TheOtherRealm/otheri-node/issues"
+  },
+  "homepage": "https://github.com/TheOtherRealm/otheri-node#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
